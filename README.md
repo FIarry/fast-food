@@ -1,1 +1,1 @@
-# fast-food
+https://fiarry.github.io/fast-food/
